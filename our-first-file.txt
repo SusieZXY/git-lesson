@@ -12,4 +12,10 @@ yay
 
 hello
 
+yes
+
+no
+f
+k
+
 

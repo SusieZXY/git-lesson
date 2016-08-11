@@ -1,0 +1,25 @@
+#
+
+this is our class 
+*this is italic*
+
+**this bold**
+
+
+'this is code inline' more text
+'''{r}
+print(5)
+library(RSQLite)
+
+
+
+
+
+
+
+
+
+
+
+
+
